@@ -4,9 +4,9 @@
 
 ### Week 1: Foundation & Branding
 
-- **Team Website**: Set up the Docusaurus website. Create basic pages (Homepage, Team, Project).
-- **Branding**: Design a simple logo and choose a color scheme for Code Rangers.
-- **GitHub Repo**: Create the GitHub repo and add a compelling README. Start adding project code.
+[ ] **Team Website**: Set up the Docusaurus website. Create basic pages (Homepage, Team, Project).
+[x] **Branding**: Design a simple logo and choose a color scheme for Code Rangers.
+[ ] **GitHub Repo**: Create the GitHub repo and add a compelling README. Start adding project code.
 
 ### Week 2: Content & Individual Profiles
 
